@@ -1,0 +1,75 @@
+import express, { response } from 'express';
+
+const app = express();
+
+
+app.use(express.json());
+// Endereço completo da nossa requisição
+// recurso da entidade que estamos acessando
+
+
+//requisições: 
+
+//métodos http
+//GET: buscar uma ou mais requisições 
+//POST: criar uma nova informação no backand
+//PUT: Atualizar uma informação existente no backend
+//DELETE: REmover uma informação no sistema 
+
+//Exemplo de métodos HTTP:
+// POST http://localhost:3333/users = criar um usuários, sendo o usuários o meu recurso.
+// GET http://localhost:3333/users = listar usuários
+// http://localhost:3333/users/5 = buscar dados do usuário 5
+
+
+
+// tipo de parametros:
+// request param: parametro que vem na própria rota que identificam os recursos
+// Query param: parametros que vem a própria rota geralmente opcionais para filtros, paginação
+// Request Body: paaetros para criação e atualização de informações
+
+const users = [
+    'teste1',
+    'teste2',
+    'teste3',
+    'teste4'
+];
+
+app.get('/users', (request, response) => {
+    const search = String(request.query.search);
+
+    const fielteredUsers = search ? users.filter(user => user.includes(search)) : users;
+
+
+    return response.json(fielteredUsers);
+
+});
+
+app.get('/users/:id', (request, response) => {
+    const id = Number(request.params.id);
+
+    const user = users[id];
+
+    return response.json(user);
+});
+
+
+//o recurso poderá ser igual, porém o método deve ser diferente.
+app.post('/users', (request, response) => {
+    const data = request.body;
+
+    console.log(data);
+
+    
+    const user = {
+        name: data.name,
+        email: data.email,
+    };
+
+
+    return response.json(user);
+});
+
+
+app.listen(3333);
+
