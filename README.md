@@ -7,8 +7,8 @@
 <p>O #NextLevelWeek foi para mim</p>
   <h1>IMPRESSIONANTE!</h1>
 
-<p>Foi incrível os conceitos, técnicas e técnologias que aprendemos neste evento. <br /> Conseguimos também, criar um network importantíssimo</p>
-<h3>Dentre as técnologias que desenvolvemos as aplicação estão:</h3>
+<p>Foi incrível os conceitos, técnicas e tecnologias que aprendemos neste evento. <br /> Conseguimos também, criar um network importantíssimo</p>
+<h3>Tecnologias utilizadas neste projeto:</h3>
 <ul>
 <li>Typescript</li>
 <li>NodeJS</li>
