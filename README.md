@@ -20,7 +20,7 @@
 </ul>
 
 <h2>A idéia do projeto</h2>
-<p>O <strong>Ecoleta</strong> é uma aplicação mobile e web na "Semana do Meio Ambiente". Sendo uma plataforma que conecta empresas que realizam coleta de diversos resíduos e pessoas interessadas em descobrir onde podem levar esses resíduos.
+<p>O <strong>Ecoleta</strong> é uma aplicação mobile e web pensado na "Semana do Meio Ambiente". Sendo uma plataforma que conecta empresas que realizam coleta de diversos resíduos e pessoas interessadas em descobrir onde podem levar esses resíduos.
 </p>
 <h3>Scripts úteis</h3>
 
