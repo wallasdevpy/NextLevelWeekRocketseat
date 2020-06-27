@@ -30,13 +30,13 @@
 <p>Iniciar a aplicação REACT: <code>yarn start</code> ou <code>npm start</code></p>
 <p>Iniciar a aplicação Mobile com o Expo: <code>expo start</code></p>
 
-<h1>Segue abaixo algumas imagens do projeto mobile:</h1>
+<h1>Seguem abaixo algumas imagens do projeto mobile:</h1>
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:| :-------------------------:|
 |<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile3.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile4.jfif">|
 
-<h1>Segue abaixo algumas imagens do projeto web:</h1>
+<h1>Seguem abaixo algumas imagens do projeto web:</h1>
 
 | | |
 |:-------------------------:|:-------------------------:|
