@@ -7,7 +7,7 @@
 <p>O #NextLevelWeek foi para mim</p>
   <h1>IMPRESSIONANTE!</h1>
 
-<p>Foi incrível os conceitos, técnicas e tecnologias que aprendemos neste evento. <br /> Conseguimos também, criar um network importantíssimo</p>
+<p>Foram incríveis os conceitos, técnicas e tecnologias que aprendi neste evento. <br /> Conseguimos também, criar um network importantíssimo.</p>
 <h3>Tecnologias utilizadas neste projeto:</h3>
 <ul>
 <li>Typescript</li>
@@ -20,7 +20,7 @@
 </ul>
 
 <h2>A idéia do projeto</h2>
-<p>O <strong>Ecoleta</strong> é uma aplicação mobile e web pensado na "Semana do Meio Ambiente". Sendo uma plataforma que conecta empresas que realizam coleta de diversos resíduos e pessoas interessadas em descobrir onde podem levar esses resíduos.
+<p>O <strong>Ecoleta</strong> é uma aplicação mobile e web pensado na "Semana do Meio Ambiente". Sendo uma plataforma que conecta empresas que realizam coletas de diversos resíduos e pessoas interessadas em descobrir onde podem levar esses resíduos.
 </p>
 <h3>Scripts úteis</h3>
 
